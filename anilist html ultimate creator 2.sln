@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "anilist html ultimate creator 2", "anilist html ultimate creator 2\anilist html ultimate creator 2.vbproj", "{A88582C7-A6CE-4C6F-8202-CE194257D16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88582C7-A6CE-4C6F-8202-CE194257D16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88582C7-A6CE-4C6F-8202-CE194257D16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88582C7-A6CE-4C6F-8202-CE194257D16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88582C7-A6CE-4C6F-8202-CE194257D16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BBF2C9-22F8-4FE3-9088-6714FADFAF11}
+	EndGlobalSection
+EndGlobal
